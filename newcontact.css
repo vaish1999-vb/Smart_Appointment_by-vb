@@ -263,7 +263,50 @@ nav{
     width: 100%;
   }
 }
+@media screen and (max-width: 1024px){
+  .wrapper{
+    
+    top: 30%;
+  
+  }
+}
+@media screen and (max-width: 1224px){
+  .wrapper{
+    
+    top: 25%;
+  
+  }
+}
 
+
+  @media screen and (max-width: 757px){
+    .wrapper{
+      
+      top: 40%;
+    }
+  }
+  @media screen and (max-width: 700px){
+    .wrapper{
+      
+      top: 45%;
+    }
+  }
+  @media screen and (max-width: 768px){
+    .wrapper{
+      
+      top: 30%;
+    }
+  }
+  
+  
+  @media screen and (max-width: 568px){
+    .wrapper{
+      
+      top: 50%;
+    }
+  }
+  
+  
 footer{
   position: relative;
   bottom: 0px;
